@@ -9,7 +9,6 @@
   "main": "index.js",
   "dependencies": {
     "babel-plugin-check-es2015-constants": "^6.3.13",
-    "babel-plugin-external-helpers": "^6.8.0",
     "babel-plugin-syntax-exponentiation-operator": "^6.8.0",
     "babel-plugin-syntax-trailing-function-commas": "^6.8.0",
     "babel-plugin-transform-async-to-generator": "^6.8.0",

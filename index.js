@@ -1,7 +1,5 @@
 module.exports = {
     plugins: [
-        require("babel-plugin-external-helpers"),
-
         require("babel-plugin-transform-decorators-legacy").default,
         require("babel-plugin-transform-class-properties"),
         require("babel-plugin-transform-object-rest-spread"),
