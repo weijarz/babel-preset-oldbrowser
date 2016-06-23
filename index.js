@@ -11,6 +11,7 @@ module.exports = {
         require("babel-plugin-transform-export-extensions"),
         [require("babel-plugin-transform-react-jsx"), {pragma: "Pencil.create"}],
         require("babel-plugin-transform-do-expressions"),
+        require("babel-plugin-syntax-trailing-function-commas"),
 
         require("babel-plugin-transform-es2015-template-literals"),
         require("babel-plugin-transform-es2015-literals"),
